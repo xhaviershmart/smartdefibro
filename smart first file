@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>facebook-login</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section class="login">
+        <div class="textsection">
+<span class="fb">FaceBook</span>
+<span>connect with friends and the world around you on facebook</span>
+        
+    </div>
+    <div class="form">
+        <form>
+ <div class="form-group">
+ <input type="text" placeholder="input your username or email address">
+ <input type="password" placeholder="password">
+ <input type="submit" class="btn-smt" value="log in" >
+ </div>
+  <a href="#reset">forgotten password</a>
+ <div class="btn-group"></div>
+ <button class="btn">create new account</button>
+
+        </form>
+    </div>
+</section>
+    
+    <section></section>
+</body>
+</html>
