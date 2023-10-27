@@ -1,0 +1,12 @@
+
+
+.iphone .nav {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    text-transform: uppercase;
+}
+.sp {margin-left: 0.75rem;}
+
+.iphone .nav .mid {text-align: center;}
+
+.iphone .nav .last {text-align: right;}
